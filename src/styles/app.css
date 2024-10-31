@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.repoItemContainer {
+    border: 1px solid #ccc;
+    margin-bottom: 16px;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.repoTitle {
+    margin-bottom: 8px;
+    font-size: 1.2em;
+}
+
+.repoDescription {
+    margin-bottom: 12px;
+    color: #555;
+}
+
+.repoStars {
+    color: #999;
+    margin-bottom: 12px;
+}
+
+.buttonGroup {
+    margin-top: 10px;
+}
+
+.button {
+    margin-right: 8px;
+}
